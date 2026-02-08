@@ -143,6 +143,20 @@ The system generates the following artifacts:
 
 ---
 
+## 🎨 UI Interface
+
+Below are screenshots of the PolicyGuard user interface:
+
+![UI Screenshot 1](assets/Screenshot%202026-02-08%20at%2011.00.45%E2%80%AFPM.png)
+
+![UI Screenshot 2](assets/Screenshot%202026-02-08%20at%2011.01.04%E2%80%AFPM.png)
+
+![UI Screenshot 3](assets/Screenshot%202026-02-08%20at%2011.01.20%E2%80%AFPM.png)
+
+![UI Screenshot 4](assets/Screenshot%202026-02-08%20at%2011.01.41%E2%80%AFPM.png)
+
+---
+
 ## 🧪 Testing
 
 Validate LLM behavior and gap detection logic by running:
