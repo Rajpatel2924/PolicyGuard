@@ -131,6 +131,8 @@ pip install -r requirements.txt
 ```bash
 # Run Full Policy Analysis
 python main.py --policy sample_policy.txt
+# Install Streamlit 
+streamlit run app.py
 ```
 ## 📤 Output
 
